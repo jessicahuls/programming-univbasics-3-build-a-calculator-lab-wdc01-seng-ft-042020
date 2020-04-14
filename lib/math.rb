@@ -6,7 +6,7 @@ addition(3,2)
 def subtraction(num1, num2)
   num1 - num2
 end
-subtration(3,2)
+subtration(4,3)
 
 def division(num1, num2)
 
