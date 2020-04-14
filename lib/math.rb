@@ -25,6 +25,3 @@ end
 modulo(5,3)
 
 def square_root(num)
-  sqrt(num)
-end
-square_root(9)
