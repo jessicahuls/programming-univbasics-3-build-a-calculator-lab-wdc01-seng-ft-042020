@@ -25,6 +25,6 @@ end
 modulo(5,3)
 
 def square_root(num)
-  sqrt(num)
+  num ** (1/2)
 end
 square_root(9)
